@@ -1,4 +1,3 @@
-Here’s an updated version of the `README.md` with the mention of using a free GraphQL server and including the requested sections:
 
 ````md
 # Pokemon Go
