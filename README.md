@@ -1,5 +1,3 @@
-
-````md
 # Pokemon Go
 
 An interactive web app that displays various Pokémon along with their descriptions, special powers, and other unique details. Built using **React** and **GraphQL**, this project leverages modern web technologies to bring you a fast and responsive Pokémon encyclopedia.
@@ -68,7 +66,6 @@ npm start
 # or
 yarn start
 ```
-````
 
 This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
@@ -113,7 +110,3 @@ If you have any questions, feel free to reach out at [anushkavarshney2708@gmail.
 ---
 
 Enjoy browsing the world of Pokémon! ✨
-
-```
-
-```
