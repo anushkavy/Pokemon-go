@@ -4,7 +4,7 @@ An interactive web app that displays various Pokémon along with their descripti
 
 ## 🚀 Live Demo
 
-Explore the app live at: [Pokemon Go App](https://pokemon-go-two.vercel.app)
+Explore the app live at: [Pokemon Go App](https://pokemon-go-orpin.vercel.app/)
 
 ---
 
